@@ -11,11 +11,6 @@ Software system for managing an industrial pastry that simulates the operation o
 - **Order Management**: Order processing with ingredient availability check
 - **Shipping System**: Periodic order loading on couriers with load optimization
 
-## 🛠️ Requirements
-- **Compiler**: GCC with C11 support
-- **Operating System**: Linux (tested on Debian/Ubuntu)
-- **Libraries**: Only standard C library
-
 ## 📁 Project Structure
 
 ```
