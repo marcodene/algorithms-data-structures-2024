@@ -206,7 +206,3 @@ kcachegrind callgrind.out.*
 - All numeric values must be positive integers (32 bit)
 - No support for partial orders
 - No multithreading
-
----
-
-*Last update: January 2025*
