@@ -1,0 +1,29 @@
+# Compiled binary
+pasticceria
+
+# Temporary test output files
+*.output
+output.txt
+actual_output.txt
+temp_output.txt
+
+# Object files
+*.o
+
+# Core dumps
+core
+vgcore.*
+
+# Profiling files
+callgrind.out.*
+massif.out.*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
